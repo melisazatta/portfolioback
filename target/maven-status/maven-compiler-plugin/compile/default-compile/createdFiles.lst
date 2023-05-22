@@ -5,6 +5,7 @@ com\portfolio\msz\Security\Controller\AuthController.class
 com\portfolio\msz\Entity\Persona.class
 com\portfolio\msz\Security\Service\UsuarioService.class
 com\portfolio\msz\Security\Repository\iUsuarioRepository.class
+com\portfolio\msz\WebConfig.class
 com\portfolio\msz\Service\SExperiencia.class
 com\portfolio\msz\Dto\dtoHys.class
 com\portfolio\msz\repository\REducacion.class
